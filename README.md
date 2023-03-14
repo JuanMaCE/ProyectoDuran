@@ -34,5 +34,5 @@ Un lenguaje de scripting es un lenguaje de programación que automatiza las tare
 ## ¿Quieres aprender a programar en python?
 
 en 3schools podras aprender diferentes tipos del lenguajes de programacuón entre estos python.
-#3schools[Para aprender más Aqui](https://www.w3schools.com/python/)
+#3schools[ Para aprender más Aqui](https://www.w3schools.com/python/)
  
