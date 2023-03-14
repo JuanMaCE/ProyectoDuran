@@ -17,3 +17,9 @@ else:
 
 
 #Paso 3 Juan Cortés
+suma = 0
+while suma < mayor:
+    suma = suma + 1
+    print(suma)
+    
+
